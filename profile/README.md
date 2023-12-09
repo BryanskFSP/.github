@@ -23,7 +23,7 @@ Fraud Check system
 - [Java Core](https://github.com/bryanskfsp/Final.Java)
 - [Web source](https://github.com/bryanskfsp/Final.Web)
 - [Telegram bot Sources](https://github.com/bryanskfsp/Final.Bot)
-- [Mobile Sources](https://github.com/bryanskfsp/Final.android)
+- [Mobile Sources](https://github.com/BryanskFSP/Final.Mobile)
 
 ## Teams
 
