@@ -2,10 +2,10 @@
 
 # SmartMonitoring
 
-Smart Monitoring system
+Fraud system
 <div align="center">
  <p>
- <a href="https://sm.kaboom.pro">
+ <a href="https://web.final.kaboom.pro">
  <img src="https://avatars.githubusercontent.com/u/149778247?s=400&u=dc01172856b0d0781adf5ee025c304599fe8f042&v=4" alt="Logo">
  </a>
  </p>
@@ -13,13 +13,17 @@ Smart Monitoring system
 
 ## Getting Started
 
-- [Web site](https://sm.kaboom.pro)
+- [Web site](https://web.final.kaboom.pro)
+- [Admin Web site](https://final.kaboom.pro)
 - Figma design in work
 
 ## Sources
-- [Core](https://github.com/bryanskfsp/SmartMonitoring)
-- [Telegram bot Sources](https://github.com/bryanskfsp/SmartMonitoring.bot)
-- [Mobile Sources](https://github.com/bryanskfsp/SmartMonitoring.android)
+- [Core](https://github.com/bryanskfsp/Final.ASPNET)
+- [ML Core](https://github.com/bryanskfsp/Final.ML)
+- [Java Core](https://github.com/bryanskfsp/Final.Java)
+- [Web source](https://github.com/bryanskfsp/Final.Web)
+- [Telegram bot Sources](https://github.com/bryanskfsp/Final.Bot)
+- [Mobile Sources](https://github.com/bryanskfsp/Final.android)
 
 ## Teams
 
